@@ -1,0 +1,8 @@
+{
+  "name": "FaixaNota",
+  "description": "Estúdio editorial inspirado no AOTY para avaliar álbuns e faixas (0–100), ordenar tracklists e criar listas musicais personalizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
